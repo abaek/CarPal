@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ParseStarterProjectActivity!</string>
+    <string name="app_name">CarPal</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_menuscreen">Menuscreen</string>
+    <string name="title_activity_search">Search</string>
+    <string name="title_activity_create">Create</string>
+    <string name="title_activity_myrides">Myrides</string>
+    <string name="title_activity_displayresults">Displayresults</string>
+    <string name="title_activity_singleride">Singleride</string>
+
+</resources>
